@@ -31,7 +31,7 @@ npm install
 4. Start the development server:
 npm start
 
-This will run the app in development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+This will run the app in development mode. Open local development server link to view it in the browser. The page will reload if you make edits.
 
 🛠 Technologies Used
 
