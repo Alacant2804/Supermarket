@@ -41,4 +41,4 @@ Stripe for payment processing (test mode)
 
 ## 📚 Course Acknowledgments
 
-This project was created as part of my learning journey in React. Special thanks to [Jad Joubran](https://jadjoubran.io/) for the excellent instruction and resources provided in the [Learn React](https://react-tutorial.app/app.html?id=327). Their expertise and teaching have been invaluable in applying practical React skills in building this supermarket page.
+This project was created as part of my learning journey in React. Special thanks to [Jad Joubran](https://jadjoubran.io/) for the excellent instruction and resources provided in the [Learn React](https://react-tutorial.app/app.html?id=327). His expertise and teaching have been invaluable in applying practical React skills in building this supermarket page.
