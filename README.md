@@ -20,7 +20,7 @@ This project is a simple React-based web application for a supermarket. It featu
 ### 🔧 Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/supermarket-page.git
+   git clone https://github.com/Alacant2804/supermarket-page.git
    
 2. Navigate to the project directory:
 cd supermarket-page
