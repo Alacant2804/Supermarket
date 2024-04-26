@@ -33,7 +33,7 @@ npm start
 
 This will run the app in development mode. Open local development server link to view it in the browser. The page will reload if you make edits.
 
-[![Watch the Demo Video Here](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
+[Watch the Demo Video Here](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
 
 
 🛠 Technologies Used
