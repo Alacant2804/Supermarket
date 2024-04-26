@@ -10,6 +10,13 @@ This project is a simple React-based web application for a supermarket. It featu
 - **🛒 Cart Page:** Users can view all items they have added to their cart and proceed to checkout.
 - **💳 Stripe Integration:** For secure payment processing (test mode).
 
+## 🎥 Watch the Demo Video
+
+Experience the Supermarket Page in action by watching the demo video! Click the link below to view the functionalities and features of our application, including navigation through different pages and the checkout process using Stripe.
+
+[Watch the Demo Video Here](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
+
+
 ## 🚀 Getting Started
 
 ### 📋 Prerequisites
@@ -32,9 +39,6 @@ npm install
 npm start
 
 This will run the app in development mode. Open local development server link to view it in the browser. The page will reload if you make edits.
-
-[Watch the Demo Video Here](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
-
 
 🛠 Technologies Used
 
