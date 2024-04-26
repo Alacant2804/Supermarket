@@ -33,7 +33,8 @@ npm start
 
 This will run the app in development mode. Open local development server link to view it in the browser. The page will reload if you make edits.
 
-[![Watch the Video](https://raw.githubusercontent.com/Alacant2804/supermarket-page/main/src/assets/Supermarket.png)](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
+[![Watch the Video](![image](https://github.com/Alacant2804/Supermarket/assets/128549224/657e70ec-1742-4af5-8a2a-d1da4679da0d)
+)](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
 
 
 🛠 Technologies Used
