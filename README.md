@@ -33,6 +33,9 @@ npm start
 
 This will run the app in development mode. Open local development server link to view it in the browser. The page will reload if you make edits.
 
+[![Watch the Video](https://raw.githubusercontent.com/Alacant2804/supermarket-page/main/src/assets/Supermarket.png)](https://drive.google.com/file/d/1QmhgyF-RHnImnD0mAZuQREnQtoQJOsDf/view?usp=sharing)
+
+
 🛠 Technologies Used
 
 React.js
